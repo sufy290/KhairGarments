@@ -1,0 +1,21 @@
+body{
+  background-color: #6D8299;
+}
+
+
+
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+  }
+
+.ceo{
+  border-radius: 1rem;
+    
+}
+@media(max-width:767px) {
+  .ceo {
+      margin: 1rem 0.7rem 1rem;
+      max-width: 80vw
+  }
+}
