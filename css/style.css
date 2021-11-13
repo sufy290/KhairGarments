@@ -59,4 +59,7 @@
   .navbar-nav {
     position: unset!important;
   }
+  .navbar-nav {
+    background-color: #112031!important;
+  }
 }
